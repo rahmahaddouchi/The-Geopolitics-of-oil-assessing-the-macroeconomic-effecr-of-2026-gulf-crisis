@@ -1,0 +1,295 @@
+country,date,cpi,ipi,brent,neer,policy_rate,vix,group,oil_balance,cpi_flag,ipi_flag,brent_flag,neer_flag,policy_rate_flag,vix_flag,ipi_model_eligible
+Canada,2023-01,121.596,107.2042,82.5014,99.5,4.25,20.169,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-02,122.0701,107.7033,82.585,99.2,4.5,20.1205,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-03,122.7021,108.1539,78.4343,98.8,4.5,21.6443,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-04,123.5712,107.9751,84.6383,99.1,4.5,17.8179,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-05,124.0453,107.7729,75.466,98.7,4.5,17.6361,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-06,124.2033,107.9314,74.8391,99.3,4.75,14.0032,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-07,124.9144,107.4483,80.1081,99.8,5.0,13.9324,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-08,125.3885,107.1201,86.1477,99.0,5.0,15.8539,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-09,125.2304,106.6857,93.7224,98.5,5.0,15.1733,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-10,125.3095,106.7325,90.5959,98.0,5.0,18.8877,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-11,125.4675,108.2825,82.94,98.3,5.0,14.0191,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2023-12,125.0724,107.8279,77.6311,98.8,5.0,12.7185,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2024-01,125.0724,107.5598,80.1241,98.5,5.0,13.3886,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2024-02,125.4675,107.7144,83.4781,98.7,5.0,13.9805,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+Canada,2024-03,126.2576,108.2547,85.4085,99.0,5.0,13.7875,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2024-04,126.8896,108.3984,89.9381,98.5,5.0,16.1377,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2024-05,127.6007,108.5421,81.7462,98.3,5.0,13.0587,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2024-06,127.5217,108.6858,82.246,98.0,4.75,12.667,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2024-07,128.0748,108.8295,85.153,97.8,4.5,14.3739,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2024-08,127.8378,108.9732,80.3552,97.5,4.25,19.3123,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2024-09,127.2847,109.1169,74.0167,97.8,4.25,17.6633,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2024-10,127.8378,109.2606,75.6326,97.3,3.75,19.9609,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2024-11,127.8378,109.4043,74.3452,96.8,3.75,16.0152,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2024-12,127.3637,109.548,73.8595,96.2,3.25,15.8662,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-01,127.4427,109.6917,79.2705,95.8,3.0,16.7636,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-02,128.7859,109.8354,75.438,95.5,3.0,16.968,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-03,129.1809,109.9791,72.7329,95.2,2.75,21.8414,Advanced_Exporter,exporter,observed,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-04,129.0503,110.1228,68.1345,95.8,2.75,31.9662,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-05,129.0551,110.2665,64.453,96.2,2.75,20.4623,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-06,129.0549,110.4102,71.4448,96.5,2.5,18.4033,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-07,129.0549,110.5539,71.0413,96.8,2.5,16.3813,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-08,129.0549,110.6976,67.87,97.0,2.5,15.75,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-09,129.0549,110.8413,67.9855,97.2,2.25,15.7891,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-10,129.0549,110.985,64.5435,97.0,2.25,18.0865,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-11,129.0549,111.1287,63.797,96.8,2.25,19.7695,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2025-12,129.0549,111.2724,62.5443,96.5,2.25,15.5482,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2026-01,129.0549,111.4161,66.6024,96.3,2.25,16.179,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2026-02,129.0549,111.5598,70.887,96.5,2.25,19.207,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2026-03,129.0549,111.7035,103.1345,97.2,2.5,25.5968,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2026-04,129.0549,111.8472,117.2875,97.5,2.5,19.8119,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2026-05,129.0549,111.9909,110.1027,97.3,2.5,17.5071,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Canada,2026-06,129.0549,112.1346,108.2952,97.0,2.5,17.8753,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2023-01,120.5047,96.0696,82.5014,101.2,2.0,20.169,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-02,121.4535,97.9059,82.585,101.8,2.5,20.1205,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-03,122.4024,95.683,78.4343,101.5,3.0,21.6443,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-04,122.9295,95.393,84.6383,101.9,3.0,17.8179,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-05,122.8241,95.2964,75.466,101.3,3.25,17.6361,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-06,123.1404,93.9433,74.8391,101.1,3.5,14.0032,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-07,123.4566,92.8802,80.1081,101.6,3.75,13.9324,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-08,123.8784,92.7835,86.1477,100.8,3.75,15.8539,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-09,124.1946,91.7204,93.7224,100.3,4.0,15.1733,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-10,124.1946,91.7204,90.5959,100.0,4.0,18.8877,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-11,123.6675,91.817,82.94,100.5,4.0,14.0191,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2023-12,123.7729,90.174,77.6311,101.2,4.0,12.7185,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2024-01,123.9838,91.0438,80.1241,101.0,4.0,13.3886,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2024-02,124.5109,92.107,83.4781,101.3,4.0,13.9805,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2024-03,125.0381,91.4304,85.4085,101.1,4.0,13.7875,Advanced_Importer,importer,observed,observed,observed,approximate,observed,observed,included
+Germany,2024-04,125.6706,92.6275,89.9381,100.5,4.0,16.1377,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2024-05,125.7761,92.738,81.7462,100.7,4.0,13.0587,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2024-06,125.8815,92.8484,82.246,100.2,3.75,12.667,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2024-07,126.3032,92.9589,85.153,100.8,3.75,14.3739,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2024-08,126.1978,93.0694,80.3552,101.5,3.75,19.3123,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2024-09,126.1978,93.1799,74.0167,101.8,3.5,17.6633,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2024-10,126.7249,93.2904,75.6326,100.9,3.25,19.9609,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2024-11,126.4086,93.4008,74.3452,100.2,3.25,16.0152,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2024-12,127.0412,93.5113,73.8595,99.5,3.0,15.8662,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-01,126.8304,93.6218,79.2705,99.8,2.75,16.7636,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-02,127.3575,93.7323,75.438,100.1,2.5,16.968,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-03,127.7792,93.8428,72.7329,100.8,2.5,21.8414,Advanced_Importer,importer,observed,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-04,128.0323,93.9532,68.1345,101.5,2.25,31.9662,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-05,128.285,94.0637,64.453,101.9,2.25,20.4623,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-06,128.5374,94.1742,71.4448,102.2,2.0,18.4033,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-07,128.7894,94.2847,71.0413,102.5,2.0,16.3813,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-08,129.041,94.3952,67.87,102.8,1.75,15.75,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-09,129.2923,94.5056,67.9855,103.0,1.75,15.7891,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-10,129.5432,94.6161,64.5435,103.2,1.75,18.0865,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-11,129.7937,94.7266,63.797,103.0,1.75,19.7695,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2025-12,130.0439,94.8371,62.5443,102.8,1.75,15.5482,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2026-01,130.2937,94.9476,66.6024,102.5,1.75,16.179,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2026-02,130.5432,95.058,70.887,102.3,1.75,19.207,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2026-03,130.7923,95.1685,103.1345,102.0,2.0,25.5968,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2026-04,131.041,95.279,117.2875,101.8,2.0,19.8119,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2026-05,131.2894,95.3895,110.1027,101.5,2.0,17.5071,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+Germany,2026-06,131.5375,95.5,108.2952,101.2,2.0,17.8753,Advanced_Importer,importer,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+India,2023-01,92.7857,151.9588,82.5014,93.64,6.25,20.169,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-02,92.9434,143.6082,82.585,93.49,6.25,20.1205,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-03,93.1537,156.3918,78.4343,94.47,6.25,21.6443,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-04,93.6268,145.0515,84.6383,94.26,6.5,17.8179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-05,94.0999,150.1031,75.466,94.63,6.5,17.6361,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-06,95.1513,148.3505,74.8391,95.83,6.5,14.0032,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-07,97.9375,147.1134,80.1081,95.6,6.5,13.9324,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-08,97.885,150.3093,86.1477,96.05,6.5,15.8539,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-09,96.781,146.701,93.7224,96.92,6.5,15.1733,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-10,97.4118,149.3814,90.5959,97.44,6.5,18.8877,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-11,97.9375,145.4639,82.94,95.88,6.5,14.0191,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2023-12,97.6221,157.0103,77.6311,94.85,6.5,12.7185,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-01,97.517,158.3505,80.1241,95.4,6.5,13.3886,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-02,97.6747,151.6495,83.4781,96.26,6.5,13.9805,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-03,97.6747,164.9485,85.4085,96.18,6.5,13.7875,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-04,98.1478,152.5773,89.9381,96.78,6.5,16.1377,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-05,98.6735,159.4845,81.7462,96.5,6.5,13.0587,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-06,99.9878,155.6701,82.246,96.67,6.5,12.667,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-07,101.4597,154.433,85.153,96.35,6.5,14.3739,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-08,101.4597,150.2062,80.3552,94.36,6.5,19.3123,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-09,102.0906,151.2371,74.0167,93.48,6.5,17.6633,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-10,103.4574,154.5361,75.6326,94.25,6.5,19.9609,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+India,2024-11,103.2997,152.0956,74.3452,95.61,6.5,16.0152,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2024-12,102.7214,153.901,73.8595,95.8,6.5,15.8662,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-01,101.67,152.5654,79.2705,94.97,6.5,16.7636,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-02,101.32,153.5534,75.438,93.4,6.25,16.968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-03,101.39,152.8225,72.7329,92.9,6.0,21.8414,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-04,101.58,153.3632,68.1345,93.02,6.0,31.9662,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-05,101.9,152.9632,64.453,92.17,5.75,20.4623,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-06,102.51,153.2591,71.4448,90.58,5.75,18.4033,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-07,103.35,153.0402,71.0413,90.11,5.75,16.3813,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-08,103.74,153.2022,67.87,88.95,5.75,15.75,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-09,103.74,153.0824,67.9855,87.85,5.5,15.7891,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-10,103.74,153.171,64.5435,88.18,5.5,18.0865,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-11,104.01,153.1054,63.797,88.09,5.5,19.7695,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2025-12,104.1,153.1539,62.5443,86.27,5.25,15.5482,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed,included
+India,2026-01,104.45,153.1181,66.6024,85.02,5.25,16.179,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed,included
+India,2026-02,104.57,153.1446,70.887,84.46,5.25,19.207,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed,included
+India,2026-03,104.84,153.125,103.1345,83.5,5.5,25.5968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed,included
+India,2026-04,104.9513,153.1395,117.2875,83.1139,5.75,19.8119,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed,included
+India,2026-05,104.9973,153.1287,110.1027,82.9585,5.75,17.5071,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed,included
+India,2026-06,105.0162,153.1367,108.2952,82.8961,5.75,17.8753,Emerging_Importer,importer,arima_forecast,arima_forecast,arima_forecast,arima_forecast,manually_estimated,arima_forecast,included
+Poland,2023-01,90.0771,172.459,82.5014,95.17,6.75,20.169,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-02,91.1568,173.1148,82.585,94.28,6.75,20.1205,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-03,92.1851,197.2131,78.4343,95.67,6.75,21.6443,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-04,92.8535,169.6721,84.6383,97.7,6.75,17.8179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-05,92.8535,178.3607,75.466,99.88,6.75,17.6361,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-06,92.8535,181.6393,74.8391,102.56,6.75,14.0032,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-07,92.6478,167.377,80.1081,104.33,6.75,13.9324,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-08,92.6478,169.5082,86.1477,104.01,6.75,15.8539,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-09,92.2879,183.6066,93.7224,100.4,6.0,15.1733,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-10,92.545,190.3279,90.5959,102.14,5.75,18.8877,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-11,93.2134,190.0,82.94,105.23,5.75,14.0191,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2023-12,93.3162,170.0,77.6311,106.81,5.75,12.7185,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-01,93.6895,176.8852,80.1241,106.31,5.75,13.3886,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-02,93.9705,178.6885,83.4781,107.28,5.75,13.9805,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-03,94.1585,186.2295,85.4085,108.4,5.75,13.7875,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-04,95.1671,182.9508,89.9381,108.4,5.75,16.1377,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-05,95.2699,175.2459,81.7462,109.07,5.75,13.0587,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-06,95.3728,180.9836,82.246,107.89,5.75,12.667,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-07,96.7095,174.918,85.153,109.49,5.75,14.3739,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-08,96.8123,166.2295,80.3552,109.29,5.75,19.3123,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-09,96.9152,181.3115,74.0167,109.62,5.75,17.6633,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-10,97.2237,198.5246,75.6326,108.15,5.75,19.9609,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-11,97.6864,186.5574,74.3452,107.38,5.75,16.0152,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2024-12,97.6864,170.1639,73.8595,108.62,5.75,15.8662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-01,98.6632,177.541,79.2705,108.92,5.75,16.7636,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-02,98.9717,177.377,75.438,110.71,5.75,16.968,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-03,99.1774,192.2951,72.7329,112.09,5.75,21.8414,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-04,99.5887,185.7377,68.1345,111.85,5.75,31.9662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-05,99.383,181.9672,64.453,111.6,5.5,20.4623,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-06,99.4859,180.6557,71.4448,112.13,5.5,18.4033,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-07,99.7943,180.3279,71.0413,113.25,5.25,16.3813,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-08,99.7943,167.7049,67.87,113.04,5.25,15.75,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-09,99.7943,194.7541,67.9855,113.36,5.0,15.7891,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-10,99.8972,205.4098,64.5435,113.34,5.0,18.0865,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-11,100.0,185.4098,63.797,113.47,5.0,19.7695,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2025-12,100.0,183.9344,62.5443,114.3,5.0,15.5482,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2026-01,100.7,173.2787,66.6024,114.3,5.0,16.179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2026-02,101.0,177.8689,70.887,114.08,5.0,19.207,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2026-03,102.1,205.2459,103.1345,112.05,5.25,25.5968,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Poland,2026-04,102.6337,199.561,117.2875,111.4317,5.5,19.8119,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed,included
+Poland,2026-05,102.8927,200.7415,110.1027,111.2433,5.5,17.5071,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed,included
+Poland,2026-06,103.0183,200.4964,108.2952,111.186,5.5,17.8753,Emerging_Importer,importer,arima_forecast,arima_forecast,arima_forecast,arima_forecast,manually_estimated,arima_forecast,included
+Saudi Arabia,2023-01,98.795,,82.5014,104.08,6.0,20.169,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-02,98.9962,,82.585,104.69,6.0,20.1205,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-03,99.1973,,78.4343,105.15,6.0,21.6443,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-04,99.3985,,84.6383,104.39,6.0,17.8179,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-05,99.5997,,75.466,105.16,6.0,17.6361,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-06,99.8008,,74.8391,106.24,6.0,14.0032,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-07,100.002,,80.1081,105.8,6.0,13.9324,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-08,100.1271,,86.1477,106.94,6.0,15.8539,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-09,100.2522,,93.7224,108.08,6.0,15.1733,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-10,100.3772,,90.5959,108.77,6.0,18.8877,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-11,100.5023,,82.94,107.46,6.0,14.0191,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2023-12,100.6274,,77.6311,106.42,6.0,12.7185,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-01,100.7525,,80.1241,106.75,6.0,13.3886,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-02,100.8776,,83.4781,107.4,6.0,13.9805,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-03,101.0027,,85.4085,107.36,6.0,13.7875,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-04,101.1277,,89.9381,108.37,6.0,16.1377,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-05,101.2528,,81.7462,108.14,6.0,13.0587,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-06,101.3779,,82.246,108.44,6.0,12.667,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-07,101.503,,85.153,108.27,6.0,14.3739,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-08,101.6751,,80.3552,106.73,6.0,19.3123,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-09,101.8472,,74.0167,105.79,6.0,17.6633,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-10,102.0192,,75.6326,106.81,6.0,19.9609,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-11,102.1913,,74.3452,108.54,6.0,16.0152,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2024-12,102.3634,,73.8595,109.5,5.75,15.8662,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-01,102.5355,,79.2705,110.24,5.75,16.7636,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-02,102.7076,,75.438,109.66,5.75,16.968,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-03,102.8797,,72.7329,108.36,5.75,21.8414,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-04,103.0518,,68.1345,107.16,5.75,31.9662,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-05,103.2238,,64.453,106.26,5.75,20.4623,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-06,103.3959,,71.4448,105.44,5.75,18.4033,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-07,103.568,,71.0413,105.18,5.75,16.3813,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-08,103.7682,,67.87,105.51,5.75,15.75,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-09,103.9683,,67.9855,105.12,5.75,15.7891,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-10,104.1685,,64.5435,105.63,5.75,18.0865,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-11,104.3687,,63.797,106.05,5.75,19.7695,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2025-12,104.5688,,62.5443,105.4,5.0,15.5482,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2026-01,104.769,,66.6024,105.0,4.25,16.179,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2026-02,104.9692,,70.887,104.36,4.25,19.207,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2026-03,105.1693,,103.1345,105.5,4.25,25.5968,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,observed,observed,excluded
+Saudi Arabia,2026-04,105.3695,,117.2875,104.97,4.25,19.8119,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,observed,manually_estimated,observed,excluded
+Saudi Arabia,2026-05,105.5697,,110.1027,104.8040139927208,4.25,17.5071,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,observed,arima_forecast,manually_estimated,observed,excluded
+Saudi Arabia,2026-06,105.7698,,108.2952,104.7520303047727,4.25,17.8753,Emerging_Exporter,exporter,imf_weo_interpolated,not_available,arima_forecast,arima_forecast,manually_estimated,arima_forecast,excluded
+Turkey,2023-01,37.8069,193.0342,82.5014,38.43,8.5,20.169,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-02,38.9959,174.1779,82.585,38.59,8.5,20.1205,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-03,39.8887,214.612,78.4343,38.48,8.5,21.6443,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-04,40.8403,184.092,84.6383,37.38,8.5,17.8179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-05,40.8579,212.4737,75.466,36.8,8.5,17.6361,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-06,42.4597,197.1165,74.8391,30.84,15.0,14.0032,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-07,46.4886,208.0026,80.1081,27.44,17.5,13.9324,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-08,50.713,212.4737,86.1477,27.42,25.0,15.8539,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-09,53.1234,217.3335,93.7224,27.78,30.0,15.1733,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-10,54.9477,222.7766,90.5959,27.14,35.0,18.8877,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-11,56.7505,216.7504,82.94,25.87,40.0,14.0191,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2023-12,58.4118,236.1899,77.6311,25.18,42.5,12.7185,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-01,62.3273,196.3389,80.1241,24.41,45.0,13.3886,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-02,65.1502,200.4212,83.4781,24.05,45.0,13.9805,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-03,67.2107,215.7784,85.4085,23.08,50.0,13.7875,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-04,69.3478,177.0938,89.9381,23.15,50.0,16.1377,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-05,71.6835,218.1111,81.7462,23.07,50.0,13.0587,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-06,72.8597,180.2041,82.246,22.88,50.0,12.667,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-07,75.2098,211.5017,85.153,22.58,50.0,14.3739,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-08,77.0708,200.4212,80.3552,21.74,50.0,19.3123,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-09,79.3584,208.197,74.0167,21.32,47.5,17.6633,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-10,81.6438,216.556,75.6326,21.52,47.5,19.9609,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-11,83.4759,218.8887,74.3452,21.87,47.5,16.0152,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2024-12,84.3342,255.0462,73.8595,21.76,47.5,15.8662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-01,88.5783,198.6716,79.2705,21.6,45.0,16.7636,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-02,90.592,189.9239,75.438,20.99,42.5,16.968,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-03,92.8205,209.7521,72.7329,19.99,42.5,21.8414,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-04,95.602,198.4772,68.1345,19.09,40.0,31.9662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-05,97.0631,221.2214,64.453,18.56,38.0,20.4623,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-06,98.396,196.5333,71.4448,18.02,35.0,18.4033,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-07,100.4219,221.8046,71.0413,17.55,33.0,16.3813,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-08,102.4658,209.7521,67.87,17.37,30.5,15.75,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-09,105.78,221.0271,67.9855,17.08,28.5,15.7891,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-10,108.4776,221.4158,64.5435,16.94,27.0,18.0865,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-11,109.4159,217.3335,63.797,16.84,25.5,19.7695,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2025-12,110.387,256.9901,62.5443,16.52,24.0,15.5482,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2026-01,115.73,193.423,66.6024,16.24,23.0,16.179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2026-02,119.16,193.8118,70.887,15.93,22.0,19.207,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed,included
+Turkey,2026-03,121.47,193.5644,103.1345,16.03,24.0,25.5968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed,included
+Turkey,2026-04,123.3909,193.7218,117.2875,16.082,25.5,19.8119,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed,included
+Turkey,2026-05,124.9881,193.6216,110.1027,16.109,25.5,17.5071,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed,included
+Turkey,2026-06,126.3163,193.6854,108.2952,16.1231,25.5,17.8753,Emerging_Importer,importer,arima_forecast,arima_forecast,arima_forecast,arima_forecast,manually_estimated,arima_forecast,included
+USA,2023-01,126.223,99.5375,82.5014,117.5,4.5,20.169,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-02,126.9276,99.6728,82.585,117.2,4.75,20.1205,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-03,127.3478,100.0481,78.4343,116.8,5.0,21.6443,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-04,127.9921,100.2783,84.6383,115.9,5.0,17.8179,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-05,128.3144,99.9571,75.466,116.0,5.25,17.6361,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-06,128.7287,99.1559,74.8391,115.8,5.25,14.0032,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-07,128.9743,99.9354,80.1081,117.2,5.5,13.9324,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-08,129.5375,99.8686,86.1477,117.6,5.5,15.8539,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-09,129.8595,100.0487,93.7224,118.9,5.5,15.1733,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-10,129.8097,99.5018,90.5959,119.5,5.5,18.8877,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-11,129.5481,99.893,82.94,118.4,5.5,14.0191,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2023-12,129.4194,99.6347,77.6311,117.6,5.5,12.7185,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-01,130.1244,98.2672,80.1241,117.9,5.5,13.3886,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-02,130.9299,99.3197,83.4781,118.4,5.5,13.9805,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-03,131.7762,99.4905,85.4085,118.3,5.5,13.7875,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-04,132.2892,99.2785,89.9381,118.8,5.5,16.1377,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-05,132.5091,99.8921,81.7462,118.7,5.5,13.0587,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-06,132.5538,99.9228,82.246,118.5,5.5,12.667,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-07,132.7078,99.0133,85.153,117.8,5.5,14.3739,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-08,132.8158,99.4642,80.3552,116.5,5.5,19.3123,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-09,133.0289,98.8477,74.0167,115.1,5.0,17.6633,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-10,133.182,98.512,75.6326,116.5,4.75,19.9609,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-11,133.1099,98.3367,74.3452,117.8,4.75,16.0152,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2024-12,133.1571,99.3616,73.8595,118.5,4.5,15.8662,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2025-01,134.0288,99.1015,79.2705,119.0,4.5,16.7636,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2025-02,134.6241,100.1261,75.438,119.5,4.5,16.968,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2025-03,134.9266,100.0678,72.7329,118.8,4.5,21.8414,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2025-04,135.3468,100.1544,68.1345,117.2,4.5,31.9662,Advanced_Exporter,exporter,observed,observed,observed,approximate,observed,observed,included
+USA,2025-05,135.6836,99.9936,64.453,116.5,4.5,20.4623,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2025-06,135.9238,100.5017,71.4448,116.0,4.25,18.4033,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2025-07,136.095,100.9132,71.0413,115.5,4.25,16.3813,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2025-08,136.2171,100.6465,67.87,115.0,4.25,15.75,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2025-09,136.3042,100.6893,67.9855,114.5,4.0,15.7891,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2025-10,136.3663,100.2452,64.5435,114.8,4.0,18.0865,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2025-11,136.4106,100.0618,63.797,115.0,3.75,19.7695,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2025-12,136.4421,100.5431,62.5443,115.3,3.75,15.5482,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2026-01,136.4646,100.4969,66.6024,115.5,3.75,16.179,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2026-02,136.4807,101.1181,70.887,115.8,3.75,19.207,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2026-03,136.4921,100.826,103.1345,117.2,3.5,25.5968,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2026-04,136.5003,101.5097,117.2875,118.0,3.5,19.8119,Advanced_Exporter,exporter,arima_forecast,observed,observed,approximate,observed,observed,included
+USA,2026-05,136.5061,101.1935,110.1027,117.5,3.5,17.5071,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included
+USA,2026-06,136.5103,101.2861,108.2952,117.0,3.5,17.8753,Advanced_Exporter,exporter,arima_forecast,holts_forecast,observed,approximate,observed,observed,included

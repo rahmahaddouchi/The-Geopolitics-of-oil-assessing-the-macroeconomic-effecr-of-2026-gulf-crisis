@@ -1,0 +1,253 @@
+country,date,cpi,ipi,brent,neer,policy_rate,vix,group,oil_balance,cpi_flag,ipi_flag,brent_flag,neer_flag,policy_rate_flag,vix_flag
+India,2023-01-01,92.7857,151.9588,82.5014,93.64,6.25,20.169,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-02-01,92.9434,143.6082,82.585,93.49,6.25,20.1205,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-03-01,93.1537,156.3918,78.4343,94.47,6.25,21.6443,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-04-01,93.6268,145.0515,84.6383,94.26,6.5,17.8179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-05-01,94.0999,150.1031,75.466,94.63,6.5,17.6361,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-06-01,95.1513,148.3505,74.8391,95.83,6.5,14.0032,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-07-01,97.9375,147.1134,80.1081,95.6,6.5,13.9324,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-08-01,97.885,150.3093,86.1477,96.05,6.5,15.8539,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-09-01,96.781,146.701,93.7224,96.92,6.5,15.1733,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-10-01,97.4118,149.3814,90.5959,97.44,6.5,18.8877,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-11-01,97.9375,145.4639,82.94,95.88,6.5,14.0191,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2023-12-01,97.6221,157.0103,77.6311,94.85,6.5,12.7185,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-01-01,97.517,158.3505,80.1241,95.4,6.5,13.3886,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-02-01,97.6747,151.6495,83.4781,96.26,6.5,13.9805,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-03-01,97.6747,164.9485,85.4085,96.18,6.5,13.7875,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-04-01,98.1478,152.5773,89.9381,96.78,6.5,16.1377,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-05-01,98.6735,159.4845,81.7462,96.5,6.5,13.0587,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-06-01,99.9878,155.6701,82.246,96.67,6.5,12.667,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-07-01,101.4597,154.433,85.153,96.35,6.5,14.3739,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-08-01,101.4597,150.2062,80.3552,94.36,6.5,19.3123,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-09-01,102.0906,151.2371,74.0167,93.48,6.5,17.6633,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-10-01,103.4574,154.5361,75.6326,94.25,6.5,19.9609,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+India,2024-11-01,103.2997,152.0956,74.3452,95.61,6.5,16.0152,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2024-12-01,102.7214,153.901,73.8595,95.8,6.5,15.8662,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-01-01,101.67,152.5654,79.2705,94.97,6.5,16.7636,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-02-01,101.32,153.5534,75.438,93.4,6.25,16.968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-03-01,101.39,152.8225,72.7329,92.9,6.0,21.8414,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-04-01,101.58,153.3632,68.1345,93.02,6.0,31.9662,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-05-01,101.9,152.9632,64.453,92.17,5.75,20.4623,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-06-01,102.51,153.2591,71.4448,90.58,5.75,18.4033,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-07-01,103.35,153.0402,71.0413,90.11,5.75,16.3813,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-08-01,103.74,153.2022,67.87,88.95,5.75,15.75,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-09-01,103.74,153.0824,67.9855,87.85,5.5,15.7891,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-10-01,103.74,153.171,64.5435,88.18,5.5,18.0865,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-11-01,104.01,153.1054,63.797,88.09,5.5,19.7695,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2025-12-01,104.1,153.1539,62.5443,86.27,5.25,15.5482,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+India,2026-01-01,104.45,153.1181,66.6024,85.02,5.25,16.179,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed
+India,2026-02-01,104.57,153.1446,70.887,84.46,5.25,19.207,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed
+India,2026-03-01,104.84,153.125,103.1345,83.5,5.5,25.5968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed
+India,2026-04-01,104.9513,153.1395,117.2875,83.1139,5.75,19.8119,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+India,2026-05-01,104.9973,153.1287,110.1027,82.9585,5.75,17.5071,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+India,2026-06-01,105.0162,153.1367,108.2952,82.8961,5.75,17.8753,Emerging_Importer,importer,arima_forecast,arima_forecast,arima_forecast,arima_forecast,manually_estimated,arima_forecast
+Indonesia,2023-01-01,102.8176,149.19,82.5014,98.72,5.75,20.169,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-02-01,102.9799,141.89,82.585,100.3,5.75,20.1205,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-03-01,103.1603,154.73,78.4343,100.25,5.75,21.6443,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-04-01,103.5031,129.51,84.6383,102.65,5.75,17.8179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-05-01,103.5933,155.23,75.466,104.04,5.75,17.6361,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-06-01,103.7377,154.3,74.8391,104.8,5.75,14.0032,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-07-01,103.9542,158.44,80.1081,103.77,5.75,13.9324,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-08-01,103.9361,162.67,86.1477,103.81,5.75,15.8539,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-09-01,104.1346,158.08,93.7224,104.17,5.75,15.1733,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-10-01,104.315,161.29,90.5959,102.31,6.0,18.8877,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-11-01,104.7119,157.47,82.94,101.94,6.0,14.0191,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2023-12-01,105.1449,153.45,77.6311,101.16,6.0,12.7185,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-01-01,105.19,156.19,80.1241,100.87,6.0,13.3886,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-02-01,105.58,146.55,83.4781,101.57,6.0,13.9805,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-03-01,106.13,155.64,85.4085,101.32,6.0,13.7875,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-04-01,106.4,138.78,89.9381,100.02,6.25,16.1377,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-05-01,106.37,158.36,81.7462,99.98,6.25,13.0587,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-06-01,106.28,154.47,82.246,98.57,6.25,12.667,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-07-01,106.09,161.38,85.153,99.07,6.25,14.3739,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-08-01,106.06,161.62,80.3552,99.79,6.25,19.3123,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-09-01,105.93,160.52,74.0167,101.18,6.0,17.6633,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-10-01,106.01,168.99,75.6326,100.63,6.0,19.9609,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-11-01,106.33,162.36,74.3452,101.09,6.0,16.0152,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2024-12-01,106.8,159.24,73.8595,100.64,6.0,15.8662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-01-01,105.99,149.53,79.2705,99.94,5.75,16.7636,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-02-01,105.48,154.71,75.438,98.57,5.75,16.968,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-03-01,107.22,159.59,72.7329,97.02,5.75,21.8414,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-04-01,108.47,144.5,68.1345,94.21,5.75,31.9662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-05-01,108.07,153.31,64.453,95.04,5.5,20.4623,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-06-01,108.27,156.13,71.4448,95.05,5.5,18.4033,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-07-01,108.6,164.87,71.0413,95.05,5.25,16.3813,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-08-01,108.51,163.03,67.87,95.33,5.25,15.75,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-09-01,108.74,168.72,67.9855,93.65,5.25,15.7891,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-10-01,109.04,174.6,64.5435,93.88,5.25,18.0865,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-11-01,109.22,166.11,63.797,93.74,5.25,19.7695,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2025-12-01,109.92,168.95,62.5443,93.08,5.25,15.5482,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Indonesia,2026-01-01,109.75,170.72,66.6024,91.76,5.25,16.179,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+Indonesia,2026-02-01,110.5,172.48,70.887,90.97,5.25,19.207,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+Indonesia,2026-03-01,110.95,174.25,103.1345,91.51,5.5,25.5968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+Indonesia,2026-04-01,111.09,176.01,117.2875,91.6334,5.75,19.8119,Emerging_Importer,importer,observed,arima_forecast,observed,arima_forecast,observed,observed
+Indonesia,2026-05-01,111.1237,177.78,110.1027,91.6616,5.75,17.5071,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+Indonesia,2026-06-01,111.1318,179.54,108.2952,91.6681,5.75,17.8753,Emerging_Importer,importer,arima_forecast,arima_forecast,arima_forecast,arima_forecast,manually_estimated,arima_forecast
+Poland,2023-01-01,90.0771,172.459,82.5014,95.17,6.75,20.169,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-02-01,91.1568,173.1148,82.585,94.28,6.75,20.1205,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-03-01,92.1851,197.2131,78.4343,95.67,6.75,21.6443,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-04-01,92.8535,169.6721,84.6383,97.7,6.75,17.8179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-05-01,92.8535,178.3607,75.466,99.88,6.75,17.6361,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-06-01,92.8535,181.6393,74.8391,102.56,6.75,14.0032,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-07-01,92.6478,167.377,80.1081,104.33,6.75,13.9324,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-08-01,92.6478,169.5082,86.1477,104.01,6.75,15.8539,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-09-01,92.2879,183.6066,93.7224,100.4,6.0,15.1733,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-10-01,92.545,190.3279,90.5959,102.14,5.75,18.8877,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-11-01,93.2134,190.0,82.94,105.23,5.75,14.0191,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2023-12-01,93.3162,170.0,77.6311,106.81,5.75,12.7185,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-01-01,93.6895,176.8852,80.1241,106.31,5.75,13.3886,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-02-01,93.9705,178.6885,83.4781,107.28,5.75,13.9805,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-03-01,94.1585,186.2295,85.4085,108.4,5.75,13.7875,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-04-01,95.1671,182.9508,89.9381,108.4,5.75,16.1377,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-05-01,95.2699,175.2459,81.7462,109.07,5.75,13.0587,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-06-01,95.3728,180.9836,82.246,107.89,5.75,12.667,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-07-01,96.7095,174.918,85.153,109.49,5.75,14.3739,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-08-01,96.8123,166.2295,80.3552,109.29,5.75,19.3123,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-09-01,96.9152,181.3115,74.0167,109.62,5.75,17.6633,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-10-01,97.2237,198.5246,75.6326,108.15,5.75,19.9609,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-11-01,97.6864,186.5574,74.3452,107.38,5.75,16.0152,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2024-12-01,97.6864,170.1639,73.8595,108.62,5.75,15.8662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-01-01,98.6632,177.541,79.2705,108.92,5.75,16.7636,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-02-01,98.9717,177.377,75.438,110.71,5.75,16.968,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-03-01,99.1774,192.2951,72.7329,112.09,5.75,21.8414,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-04-01,99.5887,185.7377,68.1345,111.85,5.75,31.9662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-05-01,99.383,181.9672,64.453,111.6,5.5,20.4623,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-06-01,99.4859,180.6557,71.4448,112.13,5.5,18.4033,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-07-01,99.7943,180.3279,71.0413,113.25,5.25,16.3813,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-08-01,99.7943,167.7049,67.87,113.04,5.25,15.75,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-09-01,99.7943,194.7541,67.9855,113.36,5.0,15.7891,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-10-01,99.8972,205.4098,64.5435,113.34,5.0,18.0865,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-11-01,100.0,185.4098,63.797,113.47,5.0,19.7695,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2025-12-01,100.0,183.9344,62.5443,114.3,5.0,15.5482,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2026-01-01,100.7,173.2787,66.6024,114.3,5.0,16.179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2026-02-01,101.0,177.8689,70.887,114.08,5.0,19.207,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2026-03-01,102.1,205.2459,103.1345,112.05,5.25,25.5968,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Poland,2026-04-01,102.6337,199.561,117.2875,111.4317,5.5,19.8119,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+Poland,2026-05-01,102.8927,200.7415,110.1027,111.2433,5.5,17.5071,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+Poland,2026-06-01,103.0183,200.4964,108.2952,111.186,5.5,17.8753,Emerging_Importer,importer,arima_forecast,arima_forecast,arima_forecast,arima_forecast,manually_estimated,arima_forecast
+South Africa,2023-01-01,92.3,84.627,82.5014,100.57,7.25,20.169,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-02-01,93.0,91.5462,82.585,96.72,7.25,20.1205,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-03-01,93.9,103.7878,78.4343,95.17,7.25,21.6443,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-04-01,94.3,93.2494,84.6383,94.66,7.75,17.8179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-05-01,94.5,99.317,75.466,91.22,7.75,17.6361,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-06-01,94.7,101.6588,74.8391,93.66,7.75,14.0032,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-07-01,95.4,98.0396,80.1081,95.99,8.25,13.9324,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-08-01,95.7,103.7878,86.1477,94.18,8.25,15.8539,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-09-01,96.4,104.6394,93.7224,94.4,8.25,15.1733,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-10-01,97.3,106.9813,90.5959,94.67,8.25,18.8877,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-11-01,97.2,111.1328,82.94,95.88,8.25,14.0191,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+South Africa,2023-12-01,97.2,110.0186,77.6311,94.33,8.25,12.7185,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-01-01,97.3,110.3176,80.1241,93.81,8.25,13.3886,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-02-01,98.1,110.2373,83.4781,93.59,8.25,13.9805,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-03-01,98.9,110.2589,85.4085,94.25,8.25,13.7875,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-04-01,99.1,110.2531,89.9381,95.15,8.25,16.1377,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-05-01,99.3,110.2547,81.7462,97.12,8.25,13.0587,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-06-01,99.4,110.2542,82.246,97.48,8.25,12.667,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-07-01,99.8,110.2544,85.153,98.14,8.25,14.3739,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-08-01,99.9,110.2543,80.3552,97.88,8.25,19.3123,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-09-01,100.0,110.2543,74.0167,99.29,8.0,17.6633,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-10-01,100.0,110.2543,75.6326,100.64,8.0,19.9609,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-11-01,99.9,110.2543,74.3452,100.53,7.75,16.0152,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2024-12-01,100.0,110.2543,73.8595,99.84,7.75,15.8662,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-01-01,100.3,110.2543,79.2705,97.94,7.5,16.7636,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-02-01,101.2,110.2543,75.438,98.57,7.5,16.968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-03-01,101.6,110.2543,72.7329,98.17,7.5,21.8414,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-04-01,101.9,110.2543,68.1345,93.62,7.5,31.9662,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-05-01,102.1,110.2543,64.453,96.71,7.25,20.4623,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-06-01,102.4,110.2543,71.4448,97.21,7.25,18.4033,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-07-01,103.3,110.2543,71.0413,97.25,7.0,16.3813,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-08-01,103.2,110.2543,67.87,97.81,7.0,15.75,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-09-01,103.4,110.2543,67.9855,98.85,7.0,15.7891,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-10-01,103.5,110.2543,64.5435,100.35,7.0,18.0865,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-11-01,103.4,110.2543,63.797,101.03,7.0,19.7695,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2025-12-01,103.6,110.2543,62.5443,102.61,7.0,15.5482,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+South Africa,2026-01-01,103.8,110.2543,66.6024,105.45,7.0,16.179,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed
+South Africa,2026-02-01,104.2,110.2543,70.887,106.62,7.0,19.207,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed
+South Africa,2026-03-01,104.8,110.2543,103.1345,103.28,7.25,25.5968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed
+South Africa,2026-04-01,106.0,110.2543,117.2875,103.1967,7.5,19.8119,Emerging_Importer,importer,observed,arima_forecast,observed,arima_forecast,manually_estimated,observed
+South Africa,2026-05-01,106.8517,110.2543,110.1027,103.1946,7.5,17.5071,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+South Africa,2026-06-01,107.4561,110.2543,108.2952,103.1946,7.5,17.8753,Emerging_Importer,importer,arima_forecast,arima_forecast,arima_forecast,arima_forecast,manually_estimated,arima_forecast
+Thailand,2023-01-01,100.37,102.9195,82.5014,99.06,1.25,20.169,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-02-01,100.25,102.748,82.585,97.54,1.5,20.1205,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-03-01,99.99,110.1823,78.4343,97.06,1.75,21.6443,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-04-01,100.17,87.8535,84.6383,97.28,1.75,17.8179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-05-01,99.45,100.2394,75.466,98.54,1.75,17.6361,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-06-01,100.05,98.1486,74.8391,97.93,2.0,14.0032,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-07-01,100.04,95.917,80.1081,98.63,2.0,13.9324,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-08-01,100.58,97.466,86.1477,98.87,2.25,15.8539,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-09-01,100.22,96.4865,93.7224,97.7,2.5,15.1733,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-10-01,99.94,94.8985,90.5959,96.7,2.5,18.8877,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-11-01,99.7,97.671,82.94,98.34,2.5,14.0191,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2023-12-01,99.24,92.8643,77.6311,98.26,2.5,12.7185,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-01-01,99.26,100.4384,80.1241,98.26,2.5,13.3886,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-02-01,99.48,101.1448,83.4781,97.23,2.5,13.9805,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-03-01,99.51,106.9642,85.4085,96.96,2.5,13.7875,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-04-01,100.36,91.2917,89.9381,96.07,2.5,16.1377,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-05-01,100.98,99.966,81.7462,96.37,2.5,13.0587,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-06-01,100.67,97.7809,82.246,96.67,2.5,12.667,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-07-01,100.86,97.8717,85.153,97.78,2.5,14.3739,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-08-01,100.94,96.6588,80.3552,99.35,2.5,19.3123,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-09-01,100.84,94.4949,74.0167,102.25,2.25,17.6633,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-10-01,100.77,95.8352,75.6326,103.51,2.25,19.9609,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-11-01,100.64,96.124,74.3452,102.33,2.25,16.0152,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2024-12-01,100.47,92.6249,73.8595,104.1,2.25,15.8662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-01-01,100.57,100.1163,79.2705,104.63,2.25,16.7636,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-02-01,100.55,97.7428,75.438,105.05,2.0,16.968,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-03-01,100.35,107.8788,72.7329,104.06,2.0,21.8414,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-04-01,100.14,93.0939,68.1345,103.11,1.75,31.9662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-05-01,100.4,101.9928,64.453,104.05,1.75,20.4623,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-06-01,100.42,98.0375,71.4448,104.43,1.75,18.4033,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-07-01,100.15,94.3707,71.0413,105.05,1.75,16.3813,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-08-01,100.14,93.0931,67.87,105.45,1.75,15.75,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-09-01,100.11,95.9917,67.9855,106.69,1.5,15.7891,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-10-01,100.0,96.3229,64.5435,105.59,1.5,18.0865,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-11-01,100.15,92.5338,63.797,106.89,1.5,19.7695,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2025-12-01,100.19,94.9982,62.5443,109.16,1.5,15.5482,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2026-01-01,99.91,101.7627,66.6024,109.61,1.5,16.179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2026-02-01,99.67,97.828,70.887,108.77,1.5,19.207,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Thailand,2026-03-01,100.27,94.5329,103.1345,106.61,1.75,25.5968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,observed,observed
+Thailand,2026-04-01,100.2242,94.0676,117.2875,106.0794,2.0,19.8119,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+Thailand,2026-05-01,100.2277,93.6024,110.1027,105.949,2.0,17.5071,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+Thailand,2026-06-01,100.2274,93.1371,108.2952,105.917,2.0,17.8753,Emerging_Importer,importer,arima_forecast,arima_forecast,arima_forecast,arima_forecast,manually_estimated,arima_forecast
+Turkey,2023-01-01,37.8069,193.0342,82.5014,38.43,8.5,20.169,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-02-01,38.9959,174.1779,82.585,38.59,8.5,20.1205,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-03-01,39.8887,214.612,78.4343,38.48,8.5,21.6443,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-04-01,40.8403,184.092,84.6383,37.38,8.5,17.8179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-05-01,40.8579,212.4737,75.466,36.8,8.5,17.6361,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-06-01,42.4597,197.1165,74.8391,30.84,15.0,14.0032,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-07-01,46.4886,208.0026,80.1081,27.44,17.5,13.9324,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-08-01,50.713,212.4737,86.1477,27.42,25.0,15.8539,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-09-01,53.1234,217.3335,93.7224,27.78,30.0,15.1733,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-10-01,54.9477,222.7766,90.5959,27.14,35.0,18.8877,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-11-01,56.7505,216.7504,82.94,25.87,40.0,14.0191,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2023-12-01,58.4118,236.1899,77.6311,25.18,42.5,12.7185,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-01-01,62.3273,196.3389,80.1241,24.41,45.0,13.3886,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-02-01,65.1502,200.4212,83.4781,24.05,45.0,13.9805,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-03-01,67.2107,215.7784,85.4085,23.08,50.0,13.7875,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-04-01,69.3478,177.0938,89.9381,23.15,50.0,16.1377,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-05-01,71.6835,218.1111,81.7462,23.07,50.0,13.0587,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-06-01,72.8597,180.2041,82.246,22.88,50.0,12.667,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-07-01,75.2098,211.5017,85.153,22.58,50.0,14.3739,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-08-01,77.0708,200.4212,80.3552,21.74,50.0,19.3123,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-09-01,79.3584,208.197,74.0167,21.32,47.5,17.6633,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-10-01,81.6438,216.556,75.6326,21.52,47.5,19.9609,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-11-01,83.4759,218.8887,74.3452,21.87,47.5,16.0152,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2024-12-01,84.3342,255.0462,73.8595,21.76,47.5,15.8662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-01-01,88.5783,198.6716,79.2705,21.6,45.0,16.7636,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-02-01,90.592,189.9239,75.438,20.99,42.5,16.968,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-03-01,92.8205,209.7521,72.7329,19.99,42.5,21.8414,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-04-01,95.602,198.4772,68.1345,19.09,40.0,31.9662,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-05-01,97.0631,221.2214,64.453,18.56,38.0,20.4623,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-06-01,98.396,196.5333,71.4448,18.02,35.0,18.4033,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-07-01,100.4219,221.8046,71.0413,17.55,33.0,16.3813,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-08-01,102.4658,209.7521,67.87,17.37,30.5,15.75,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-09-01,105.78,221.0271,67.9855,17.08,28.5,15.7891,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-10-01,108.4776,221.4158,64.5435,16.94,27.0,18.0865,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-11-01,109.4159,217.3335,63.797,16.84,25.5,19.7695,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2025-12-01,110.387,256.9901,62.5443,16.52,24.0,15.5482,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2026-01-01,115.73,193.423,66.6024,16.24,23.0,16.179,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2026-02-01,119.16,193.8118,70.887,15.93,22.0,19.207,Emerging_Importer,importer,observed,observed,observed,observed,observed,observed
+Turkey,2026-03-01,121.47,193.5644,103.1345,16.03,24.0,25.5968,Emerging_Importer,importer,observed,arima_forecast,observed,observed,manually_estimated,observed
+Turkey,2026-04-01,123.3909,193.7218,117.2875,16.082,25.5,19.8119,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+Turkey,2026-05-01,124.9881,193.6216,110.1027,16.109,25.5,17.5071,Emerging_Importer,importer,arima_forecast,arima_forecast,observed,arima_forecast,manually_estimated,observed
+Turkey,2026-06-01,126.3163,193.6854,108.2952,16.1231,25.5,17.8753,Emerging_Importer,importer,arima_forecast,arima_forecast,arima_forecast,arima_forecast,manually_estimated,arima_forecast
